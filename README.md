@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AnshGupta06.AnshGupta06">
 <div align="center">
 
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Ansh+Gupta...;Nice+to+meet+you!" alt="Typing SVG" /></a>
 
 <h3 align="center">An AI enthusiast and Web Developer, currently in 2nd year at SVNIT Surat.</h3>
