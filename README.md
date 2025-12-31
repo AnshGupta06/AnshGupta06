@@ -7,6 +7,9 @@
 <h3 align="center">An AI enthusiast and Web Developer, currently in 2nd year at SVNIT Surat.</h3>
 </div>
 
+
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/AnshGupta06/AnshGupta06/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+
 - 🔭 I’m currently learning **AI and advanced machine learning**
 
 - 💻 I’ve recently completed web development project [CRICARENA](https://github.com/Pratham722007/cricarena)
@@ -14,6 +17,8 @@
 - 💬 Ask me about **MERN stack development,Django, HTML,CSS , UI/UX design in Figma , competitive programming and AI projects**
 
 - 📫 How to reach me **anshgupta2706@gmail.com**
+
+<br>
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-gupta-109504323/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshgupta2706@gmail.com) 
