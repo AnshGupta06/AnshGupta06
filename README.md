@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently learning **AI and advanced machine learning**
 
-- 💻 I’ve recently completed web development project [CRICARENA](https://github.com/Pratham722007/cricarena)
+- 💻 I’ve recently completed web development project [Mindsettler]([https://github.com/Pratham722007/cricarena](https://github.com/AnshGupta06/Mindsettler_GWOC-26))
 
 - 💬 Ask me about **MERN stack development,Django, HTML,CSS , UI/UX design in Figma , competitive programming and AI projects**
 
